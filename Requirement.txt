@@ -1,0 +1,30 @@
+# =============================================
+# REQUIREMENTS - Simulation d'Écosystème
+# =============================================
+
+# === COMPILATEUR ===
+# Windows : MinGW (GCC 9+) ou Clang 10+
+# Linux   : GCC 9+ ou Clang 10+
+# macOS   : Clang 10+
+
+# === SCRIPT DE COMPILATION ===
+Python >= 3.8
+
+# === BIBLIOTHÈQUES (incluses dans Externals/) ===
+SDL3 >= 3.0.0
+SDL3_image >= 3.2.4
+ImGui >= 1.89
+
+# === SYSTÈME ===
+# OS : Windows 10+, macOS 10.15+, Ubuntu 20.04+
+# RAM : 2 GB minimum
+# GPU : Compatible OpenGL 3.3+
+# Espace disque : 500 MB
+
+# === STRUCTURE ASSETS ===
+# Assets/Img/Background/          → Fonds jour/nuit
+# Assets/Img/Loup_moves/REMOVE/   → 3 frames Loup (+ Left)
+# Assets/Img/Lapin_moves/REMOVE/  → 3 frames Lapin (+ Left)
+# Assets/Img/Plantes/REMOVE/      → Textures plantes
+# Assets/Img/Animaux/REMOVE/      → Textures Requin, Poisson
+
