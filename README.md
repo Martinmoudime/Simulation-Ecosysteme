@@ -168,9 +168,9 @@ Ce projet est sous licence **MIT**.
 
 ## 👥 Auteurs
 
-- **Votre Nom** - MOUDIME MOBE MARTIN JUNIOR
+- **Noms et Prénoms** - MOUDIME MOBE MARTIN JUNIOR
 
 ## 🔗 Liens
 
-- 📘 [Documentation](https://github.com/votre-username/simulation-ecosysteme)
-- 🐛 [Signaler un bug](https://github.com/votre-username/simulation-ecosysteme/issues)
+- 📘 [Documentation](https://github.com/Martinmoudime/Simulation-Ecosysteme)
+- 🐛 [Signaler un bug](https://github.com/Martinmoudime/Simulation-Ecosysteme/issues)
