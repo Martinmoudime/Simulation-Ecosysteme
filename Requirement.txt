@@ -10,7 +10,7 @@
 # === SCRIPT DE COMPILATION ===
 Python >= 3.8
 
-# === BIBLIOTHÈQUES (incluses dans Externals/) ===
+# === BIBLIOTHÈQUES (non incluses dans Externals/) ===
 SDL3 >= 3.0.0
 SDL3_image >= 3.2.4
 ImGui >= 1.89
@@ -27,4 +27,5 @@ ImGui >= 1.89
 # Assets/Img/Lapin_moves/REMOVE/  → 3 frames Lapin (+ Left)
 # Assets/Img/Plantes/REMOVE/      → Textures plantes
 # Assets/Img/Animaux/REMOVE/      → Textures Requin, Poisson
+
 
